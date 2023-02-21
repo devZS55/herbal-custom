@@ -1,0 +1,308 @@
+@media (max-width: 1440px){
+    .our-pro-sli button.owl-prev {
+        margin-left: -50px;
+    }
+    .our-pro-sli button.owl-next {
+        margin-right: -50px;
+    }
+    section.disease button.owl-prev {
+        margin-left: -50px;
+    }
+    section.disease button.owl-next {
+        margin-left: -50px;
+    }
+    .uper-footer {
+        background-position: center;
+    }
+    section.disease button.owl-next {
+        margin-right: -50px;
+    }
+}
+@media (max-width: 1160px){
+    header .logo h2 {
+        font-size: 20px;
+
+    }
+    section.feature-pro {
+        padding: 200px 0 100px;
+    }
+    .mian-abbner-txt h1 {
+        font-size: 52px;
+    }
+    .mian-abbner-txt p {
+        font-size: 15px;
+    }
+    section.mian-banner {
+        padding: 200px 0 170px;
+        background-position: left;
+    }
+    .our-herbal-txt h2 {
+        font-size: 46px;
+    }
+    section.our-herbal.our-hea-secondry .owl-nav {
+        top: 95%;
+    }
+    .testi-head::before {
+        left: 320px;
+    }
+    .disease-sli-txt h2 {
+        font-size: 21px;
+    }
+    .footer-social ul li {
+        margin-right: 7px;
+    }
+  
+
+}
+@media (max-width: 1024px){
+    .our-pro-sli button.owl-prev {
+        margin-left: -30px;
+    }
+    .our-pro-sli button.owl-next {
+        margin-right: -30px;
+    }
+    section.disease button.owl-prev {
+        margin-left: -30px;
+    }
+    section.disease button.owl-next {
+        margin-right: -30px;
+    }
+}
+@media (max-width: 991px){
+      .mobile-menu{
+    display: block;
+  }
+  ul.navlinks.p-0.mt-4 ul li:last-child a {
+    background: #06447f;
+    padding: 12px 17px;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 15px;
+    transition: 0.5s all ease;
+}
+  .dropdown ul li {
+    padding: 5px 12px !important;
+}
+  .navi-2 {
+    display: none;
+}
+.logo img {
+    display: none;
+}
+img.img-fluid.mobile-logo {
+    padding: 10px 20px;
+    width: 30%;
+}
+section.mian-banner {
+    padding: 40px 0 120px;
+    background-position: top !important;
+}
+.flip-row {
+    flex-direction: column-reverse;
+}
+.our-herbal-txt {
+    padding: 50px 0;
+}
+.our-herbal-img img {
+    width: 60%;
+}
+.our-herbal-img img {
+    width: 60% !important;
+    margin: 0 auto;
+}
+section.our-herbal.our-hea-secondry .owl-nav {
+    justify-content: center;
+    top: 100%;
+}
+.footer-social ul li {
+    padding: 5px;
+    width: 32px;
+    height: 32px;
+
+}
+.footer-social ul li a {
+    color: #fff;
+    font-size: 16px;
+}
+section.feature-pro {
+    padding: 110px 0 20px;
+}
+.about-inner-img img {
+    width: 49%;
+    margin: 0 auto;
+}
+.about-inner-img {
+    text-align: center;
+    margin-bottom: 29px;
+}
+.testimonials-inner p {
+    width: 96%;
+}
+.our-feature-product.product-page-box .product-dex h2 {
+    font-size: 17px;
+}
+}
+@media (max-width: 768px){
+   
+}
+@media (max-width: 576px){
+    img.img-fluid.mobile-logo {
+    padding: 10px 20px;
+    width: 60%;
+}
+.col-md-6.col-sm-6.col-lg-6.col-12.pad-r {
+    padding-right: 13px;
+}
+.col-md-6.col-sm-6.col-lg-6.col-12.pad-l {
+    padding-left: 13px;
+}
+.mian-abbner-txt h1 {
+    font-size: 42px;
+}
+.our-herbal-txt h2 {
+    font-size: 38px;
+}
+.our-herbal-txt p {
+    font-size: 16px;
+}
+.feature-pro-head h3 {
+    font-size: 27px;
+}
+.feature-pro-head h2 {
+    font-size: 36px;
+}
+.our-pro-sli .owl-nav {
+
+    justify-content: center;
+    top: 100%;
+}
+.our-pro-sli button.owl-prev {
+    margin-left: 0px;
+}
+.our-pro-sli button.owl-next {
+    margin-right: 0;
+}
+.our-pro-sli .owl-nav button {
+    margin: 0 10px;
+}
+.test-img-1 {
+    display: none;
+}
+.test-img-2 {
+    display: none;
+}
+.test-img-5 {
+    display: none;
+}
+.test-img-4 {
+    display: none;
+}
+.test-img-6 {
+    display: none;
+}
+.testi-head::before {
+    display:none;
+}
+.disease-head {
+    width: 90%;
+}
+section.disease button.owl-prev {
+    margin-left: 0;
+}
+section.disease button.owl-next {
+    margin-right: 0;
+}
+section.disease .owl-nav {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    top: 100%;
+    position: absolute;
+    width: 100%;
+    margin-top: 10px;
+}
+section.disease .owl-nav button {
+
+    margin: 0 10px;
+}
+section.disease button.owl-next {
+    margin-left: 0;
+}
+.about-inner-txt h2 {
+    font-size: 38px;
+}
+.courses-pro-head h3 {
+    font-size: 24px;
+    margin-top: 40px;
+}
+.courses-pro-head h2 {
+    font-size: 33px;
+}
+.testimonials-inner p {
+    font-size: 15px;
+}
+.course-detail-in-img img {
+    width: 70%;
+    margin-bottom: 30px;
+}
+}
+@media (max-width: 320px){
+    .mian-abbner-txt h1 {
+    font-size: 35px;
+}
+.about-inner-txt h2 {
+    font-size: 27px;
+}
+.about-inner-txt p {
+    font-size: 15px;
+}
+.our-herbal-txt h2 {
+    font-size: 32px;
+}
+.feature-pro-head h3 {
+    font-size: 24px;
+}
+.feature-pro-head h2 {
+    font-size: 31px;
+}
+section.testimonaisl {
+    padding: 130px 0 50px;
+    background-size: cover;
+}
+.testi-head h2 {
+    font-size: 26px;
+}
+.testi-head h3 {
+    font-size: 33px;
+}
+.test-img-3 {
+    position: absolute;
+    top: -150px;
+    left: 31%;
+}
+.testi-inner p {
+    font-size: 16px;
+}
+.disease-head {
+    width: 100%;
+}
+.disease-head h2 {
+    font-size: 25px;
+}
+.disease-head h3 {
+
+    font-size: 30px;
+
+}
+}
+
+@media only screen and (max-width: 768px) {
+  .mian-abbner-txt {
+    margin-left: 5px;
+    padding-right: 0px !important;
+}
+img.img-fluid.mobile-logo {
+    padding: 5px;
+    width: 80%;
+}
+}
